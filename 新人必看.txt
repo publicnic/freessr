@@ -13,4 +13,6 @@ Twitter: https://twitter.com/darrenliuwei
 
 电报频道：https://t.me/SPhardChannel
 
-by建议搭建使用国外的dns或者开启远程解析，以免防止网站无法访问。
+
+
+对了ssr可以检测服务器状态，电脑板可以自动切换不能的服务器或者优化。建议大家开启远程解析或者使用国外的dns并且清理一下dns缓存。以免造成网站无法访问的问题。所有的梯子等情报全部都是手动收集！如果不能有可以发邮件给我反馈地址是shihuawei19970701@163.com 。
